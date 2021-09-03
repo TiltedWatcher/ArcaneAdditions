@@ -1,0 +1,7 @@
+D:\Games\Mods\Unity Mod Manager\Pathfinder WotR\Custom\Arcanist Tweaks\obj\Release\ArcanistTweaks.csproj.AssemblyReference.cache
+D:\Games\Mods\Unity Mod Manager\Pathfinder WotR\Custom\Arcanist Tweaks\obj\Release\ArcanistTweaks.csproj.CoreCompileInputs.cache
+D:\Games\Mods\Unity Mod Manager\Pathfinder WotR\Custom\Arcanist Tweaks\bin\Release\Info.json
+D:\Games\Mods\Unity Mod Manager\Pathfinder WotR\Custom\Arcanist Tweaks\bin\Release\ArcanistTweaks.dll
+D:\Games\Mods\Unity Mod Manager\Pathfinder WotR\Custom\Arcanist Tweaks\bin\Release\ArcanistTweaks.pdb
+D:\Games\Mods\Unity Mod Manager\Pathfinder WotR\Custom\Arcanist Tweaks\obj\Release\ArcanistTweaks.dll
+D:\Games\Mods\Unity Mod Manager\Pathfinder WotR\Custom\Arcanist Tweaks\obj\Release\ArcanistTweaks.pdb

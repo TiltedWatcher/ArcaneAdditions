@@ -1,0 +1,13 @@
+﻿{
+  "Id": "ArcanistTweaks",
+  "DisplayName": "Arcanist Tweaks",
+  "Author": "Nykal145",
+  "Version": "0.2.0",
+  "ManagerVersion": "0.23.4",
+  "GameVersion": "0.6.3",
+  "Requirements": [],
+  "AssemblyName": "ArcanistTweaks.dll",
+  "EntryMethod": "ArcanistTweaks.Main.Load",
+  "HomePage": "https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/20",
+  "Repository": ""
+}
